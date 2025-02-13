@@ -1,0 +1,89 @@
+@{
+    ViewData["Title"] = "hesapla";
+}
+
+<div class="bg-dark text-light p-3 my-3">
+@{
+    var mesaj ="bu mesaj yazısı";
+    @mesaj
+
+    <br>
+    
+    var tarih = DateTime.Today.Date.
+    ToShortDateString();
+    <text>Bugünkü tarih:</text> @tarih
+
+    <br>
+
+    @: Bugünkü ayın @DateTime.Today.Day .günü
+
+}
+</div>
+
+<div class="bg-dark text-light p-3 my-3">
+@{
+var haftaninGunu = DateTime.Now.
+DayOfWeek;
+if(haftaninGunu ==DayOfWeek.Saturday ||haftaninGunu ==DayOfWeek.Sunday)
+{
+    <p class="bg-warning">Haftasonu</p>
+}
+else
+{
+  <p class="bg-primary">Haftaiçi</p>  
+}
+}
+</div>
+
+<div class="bg-dark text-light p-3 my-3">
+
+ @{
+    var baslik = "Merhaba Hoşgeldiniz";
+    var sayi1 =20;
+ }
+ @if(sayi1>10)
+ {
+@sayi1 @: sayısı 10 dan büyüktür
+}
+else if(sayi1<10)
+{
+    @sayi1 @: sayısı 10 dan küçüktür
+}
+else{
+    @sayi1 @: sayısı 10 a eşittir
+}
+</div>
+
+@for(int i=1; i< 10; i++)
+{
+    string ba ="wwwroot/resim/avatar_01"+ @i+ ".png";
+    <div class="col">
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="@ba" alt="Card imagecap">
+          <div class="card-body">
+         <h5 class="card-title">Kart Başlığı</h5>
+         <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+         <a href="#" class="btn-btn-primary">Go somewhere</a>
+          </div>
+        </div>
+    </div>
+}
+@for(int i=1; i< 10; i++)
+{
+    <div class="row-bg-info">
+       <div class="col">
+        @i
+       </div>
+    </div>
+}
+
+@{
+    int boyut=10;
+}
+<div class="bg-dark text-light p-3 my-3">
+ @for(int i = 1; i<=10; i++)
+ {
+    <p style="font-size: @(boyut)px;">@i. satır</p>
+    boyut +=2;
+ }
+</div>
