@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Yapılcak_olan_proje
+build_property.RootNamespace = Yapılcak_olan_proje
+build_property.ProjectDir = C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/iletisim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbGV0aXNpbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/katagoriEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxrYXRhZ29yaUVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/katagoriGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxrYXRhZ29yaUd1bmNlbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/katagoriSil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxrYXRhZ29yaVNpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/kullaniciGirisi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxrdWxsYW5pY2lHaXJpc2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/kullaniciGuncelleme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxrdWxsYW5pY2lHdW5jZWxsZW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/kullaniciKayit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxrdWxsYW5pY2lLYXlpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/kullaniciListele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxrdWxsYW5pY2lMaXN0ZWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/ufbelirle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx1ZmJlbGlybGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/urunEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx1cnVuRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/urunGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx1cnVuR3VuY2VsbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/urunler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx1cnVubGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/urunListele.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx1cnVuTGlzdGVsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Home/urunSil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx1cnVuU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmet/OneDrive/Desktop/Dersler/Web tasarım pazartesi salı günü olan 2.dönem/Yapılcak olan proje/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v1cwt1xmdv

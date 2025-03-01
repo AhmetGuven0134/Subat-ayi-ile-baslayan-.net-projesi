@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "urunListele";
+}
+@model List<Mgz_Urun>
+    <div class=" row row-cols-2 row-cols-lg-3  g-3"></div>
+    @foreach (var item in Model)
+    {
+        <div class="col">
+            <div class="card">
+                <img class=" card-img-top" src=" /img/urun.png" alt="...">
+                <div class="car-body text-center ">
+                    <h5 class=" card-title ">@item.Id</h5>
+                    <h5 class=" card-title ">@item.UrunAdi</h5>
+                    <p class="card-text small">@item.Fiyat TL</p>
+                    <p class="card-text small">@item.Stok Adet</p>
+                </div>
+
+
+                </div>
+            </div>
+}
+        </div>  

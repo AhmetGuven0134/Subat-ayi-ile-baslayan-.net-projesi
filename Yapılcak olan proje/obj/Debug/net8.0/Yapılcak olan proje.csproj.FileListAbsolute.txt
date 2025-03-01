@@ -1,0 +1,30 @@
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\bin\Debug\net8.0\appsettings.json
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\bin\Debug\net8.0\Yapılcak olan proje.staticwebassets.runtime.json
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\bin\Debug\net8.0\Yapılcak olan proje.exe
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\bin\Debug\net8.0\Yapılcak olan proje.deps.json
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\bin\Debug\net8.0\Yapılcak olan proje.runtimeconfig.json
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\bin\Debug\net8.0\Yapılcak olan proje.dll
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\bin\Debug\net8.0\Yapılcak olan proje.pdb
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\Yapılcak olan proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\Yapılcak olan proje.AssemblyInfoInputs.cache
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\Yapılcak olan proje.AssemblyInfo.cs
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\Yapılcak olan proje.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\Yapılcak olan proje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\Yapılcak olan proje.RazorAssemblyInfo.cache
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\Yapılcak olan proje.RazorAssemblyInfo.cs
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\staticwebassets\msbuild.Yapılcak olan proje.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\staticwebassets\msbuild.build.Yapılcak olan proje.props
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Yapılcak olan proje.props
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Yapılcak olan proje.props
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\scopedcss\bundle\Yapılcak olan proje.styles.css
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\scopedcss\projectbundle\Yapılcak olan proje.bundle.scp.css
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\Yapılcak olan proje.dll
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\refint\Yapılcak olan proje.dll
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\Yapılcak olan proje.pdb
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\Yapılcak olan proje.genruntimeconfig.cache
+C:\Users\Ahmet\OneDrive\Desktop\Dersler\Web tasarım pazartesi salı günü olan 2.dönem\Yapılcak olan proje\obj\Debug\net8.0\ref\Yapılcak olan proje.dll

@@ -1,0 +1,39 @@
+@{
+    ViewData["Title"] = "urunEkle";
+}
+<div class="container mt-5">
+    <h2>Ürün Ekleme</h2>
+    <form>
+        <div class="form-group">
+            <label for="UrunAdi">Ürün Adı</label>
+            <input type="text" class="form-control" id="UrunAdi" placeholder="Ürün Adı">
+        </div>
+        <div class="form-group">
+            <label for="fiyat">Fiyat</label>
+            <input type="number" step="0.01" class="form-control" id="fiyat" placeholder="Fiyat">
+        </div>
+        <div class="form-group">
+            <label for="stok">Stok</label>
+            <input type="number" class="form-control" id="stok" placeholder="Stok">
+        </div>
+        <div class="form-group">
+            <label for="resimAdi">resimAdi Adı</label>
+            <input type="text" class="form-control" id="resimAdi" placeholder="Resim Adı">
+        </div>
+        <div class="form-group">
+            <label for="rsim">Ürün Adı</label>
+            <input type="file" class="form-control" id="urunAdi" placeholder="Ürün Adı">
+        </div>
+        <div class="form-group">
+            <label for="acıklama">Açıklama</label>
+            <textarea class="form-control" id=" acıklama" rows="3"
+            placeholder="Açıklama"></textarea>
+        </div>
+        <div class="form-group">
+             <label for="eklenme tarihi">eklenme Tarihi</label>   
+              <input type="date"  class="form-control"
+             id="Ekleme Tarihi">  
+        </div>
+        <button type="submit" class="btn btn-primary">Ürün Ekle </button>
+    </form>
+</div>
